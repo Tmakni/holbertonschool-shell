@@ -1,0 +1,2 @@
+#!/bin/bash
+write (1, hello_world \n, 11);
