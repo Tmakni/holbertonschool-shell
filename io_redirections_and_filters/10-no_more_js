@@ -1,2 +1,2 @@
 #!/bin/bash
-cp 10-no_more_js test_0/
+find . -type f -name "*.js" -delete
