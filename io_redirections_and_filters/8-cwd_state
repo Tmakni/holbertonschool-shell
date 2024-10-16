@@ -1,2 +1,2 @@
 #!/bin/bash
-touch ls_cwd_content
+vi ls_cwd_content
