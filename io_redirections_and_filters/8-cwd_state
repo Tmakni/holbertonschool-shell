@@ -1,2 +1,2 @@
 #!/bin/bash
-vi  ls_cwd_ | grep -v cwd_state
+ls -la | grep -v cwd_state | grep -v total | grep -v
