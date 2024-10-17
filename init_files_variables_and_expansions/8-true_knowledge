@@ -1,2 +1,2 @@
 #!/bin/bash
-a=128 echo "Sum: $sum"
+export TRUEKNOWLEDGE=0 | echo $(( $TRUEKNOWLEDGE+128 ))
