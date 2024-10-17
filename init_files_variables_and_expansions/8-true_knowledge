@@ -1,3 +1,2 @@
 #!/bin/bash
-a=128
-echo "Sum: $sum"
+a=128 echo "Sum: $sum"
