@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv | grep School | grep -v _ | grep -v BASH_EXECUTION_STRING
+export BEST=School
