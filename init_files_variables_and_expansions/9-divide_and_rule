@@ -1,2 +1,2 @@
 #!/bin/bash
-export a=POWER b=DIVIDE | quotient=$((a / b))
+export POWER=2 | export DIVIDE=1 && echo $(( $POWER / $DIVIDE ))
